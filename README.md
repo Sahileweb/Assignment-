@@ -1,3 +1,4 @@
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -67,3 +68,8 @@ export default tseslint.config([
   },
 ])
 ```
+
+# Assignment-
+This project is a React-based web app that displays data in a spreadsheet-like table using **@tanstack/react-table**.  
+It includes custom styling, SVG icons in headers, and colored columns for better UX.
+>>>>>>> adf8b2cbab40ebeff4ddd640865b85d6885b5389
